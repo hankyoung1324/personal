@@ -24,10 +24,10 @@ RESEARCH INTERESTS
 #### Single trial analysis and cognitive correlates of latency variability
 EDUCATION
 -
->* Master of Science (Clinical Cognitive ), 09/2015 - 06/2018
+>* Master of Education (Clinical Cognitive ), 09/2015 - 06/2018
 > 
 >    Center of Cognition of Brain Disorders, Hangzhou Normal University, China
->* Bachelor of Science (Civil Engineering),09/2009 - 06/2013
+>* Bachelor of Engineering (Civil Engineering),09/2009 - 06/2013
 >  
 >    School of Mechanics and Civil Engineering, China University of Mining and Technology of Beijing, China
 
