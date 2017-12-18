@@ -8,17 +8,19 @@ Hang Yang
 
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
->*  EEG data analysis (ERPs, single trial analysis, spectrum and time-frequency analysis, connectivity analysis) in EEGLAB, Matlab and BrainVision Analyzer
+>*  EEG data analysis[1] in EEGLAB, Matlab and BrainVision Analyzer
 >*	fMRI data analysis in AFNI and BrainVoyager
 >*	Matlab and Python programming
 >*	Stats and data visualization in R, Python and SPSS
 >*	Extensive research experience in studies of children and adults using EEG (Brain Products) and eye-tracking (Eyelink 1000) techniques
 
+[1]: Including ERPs, single trial analysis, spectrum and time-frequency analysis, connectivity analysis
+
 RESEARCH INTERESTS
 ---
 #### Neural basis of early process of visual word  processing
 #### Cognitive and neural correlates of reading development and developmental dyslexia
-#### Cognitive and neural correlates of  visual attention
+#### Visual perception and selective attention
 #### Single trial analysis and cognitive correlates of latency variability
 EDUCATION
 -
@@ -44,7 +46,7 @@ COURSES
 PUBLICATIONS
 --
 ### Published paper
-**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.
+[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
 ### Submitted paper
 Zhao J., **Yang H.**, Weng X., Wang Z. Emergent attentional bias towards  words in the environment: Evidence from eye movements. *Frontiers in Psychology*.
 ### Conference presentations
@@ -67,7 +69,7 @@ Experience
 #### **MATLAB Programmer** (2017.9.16 - 2017.9.20) 
 >     The 14th China Post-Graduate Mathematical Contest in Modeling
 > 
->     **Project Name:** A background model re-initialization method to remove ghosts for ViBe algorithm in foreground object extraction
+>     Project Name: A background model re-initialization method to remove ghosts for ViBe algorithm in foreground object extraction
 >
 #### Student host (2016.9 - 2017.1)
 >     Lab meeting of cognition and behavior group
@@ -111,3 +113,5 @@ REFERENCES
 >    zhaojing561@126.com
 >
 >    Relationship: Researcher and supervisor for 3 years
+
+For PDF version of my CV, plesea click [HERE](https://github.com/hankyoung1324/personal/blob/master/HangYang_CV_github.pdf)
