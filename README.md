@@ -19,9 +19,10 @@ SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 RESEARCH INTERESTS
 ---
 #### Neural basis of early process of visual word  processing
-#### Cognitive and neural correlates of reading development and developmental dyslexia
+#### Single trial analysis and cognitive correlates of trial-by-trial variability
 #### Visual perception and selective attention
-#### Single trial analysis and cognitive correlates of latency variability
+#### Cognitive and neural correlates of reading development and developmental dyslexia
+
 EDUCATION
 -
 >* Master of Education (Clinical Cognitive ), 09/2015 - 06/2018
