@@ -8,11 +8,11 @@ Hang Yang
 
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
->*  EEG data analysis[1] in EEGLAB, Matlab and BrainVision Analyzer
->*	fMRI data analysis in AFNI and BrainVoyager
->*	Matlab and Python programming
->*	Stats and data visualization in R, Python and SPSS
->*	Extensive research experience in studies of children and adults using EEG (Brain Products) and eye-tracking (Eyelink 1000) techniques
+#### EEG data analysis[1] in EEGLAB, Matlab and BrainVision Analyzer
+#### fMRI data analysis in AFNI and BrainVoyager
+#### Matlab and Python programming
+#### Stats and data visualization in R, Python and SPSS
+#### Extensive research experience in studies of children and adults using EEG (Brain Products) and eye-tracking (Eyelink 1000) techniques
 
 [1]: Including ERPs, single trial analysis, spectrum and time-frequency analysis, connectivity analysis
 
