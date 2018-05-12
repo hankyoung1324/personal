@@ -25,7 +25,7 @@ RESEARCH INTERESTS
 
 EDUCATION
 -
->* Master of Education (Clinical Cognitive ), 09/2015 - 06/2018
+>* Master of Education (Clinical Cognitive Neuroscience), 09/2015 - 06/2018
 > 
 >    Center of Cognition of Brain Disorders, Hangzhou Normal University, China
 >* Bachelor of Engineering (Civil Engineering),09/2009 - 06/2013
@@ -61,6 +61,10 @@ Shi Y., **Yang H.**, Ni L., He M., Zhang L. (Oct. 14- Oct. 15, 2016). The behavi
 
 Experience
 --
+#### ** Lecturer** (2017.12)
+
+>*    Data recording in EEG experiments and data analysis of EEG and ERPs (20 students, 12 hours)
+
 #### **Lecturer** (2017.9)
  
 >*    EEG introduction and preprocessing procedures based on EEGLAB (50 students, 3 hours)
@@ -81,9 +85,9 @@ Experience
 AWARDS & HONORS
 ---
 >*	2017    National Scholarship for Graduate Students (CNY 20K) 
->*	2017    Hangzhou Normal University Graduate Student Scholarship (CNY 1.2K)
->*	2016    Hangzhou Normal University Graduate Student Scholarship (CNY 0.8K)
->*	2015    Hangzhou Normal University Graduate Student Scholarship (CNY 0.93K)
+>*	2017    Hangzhou Normal University Graduate Student Scholarship (CNY 12K)
+>*	2016    Hangzhou Normal University Graduate Student Scholarship (CNY 8K)
+>*	2015    Hangzhou Normal University Graduate Student Scholarship (CNY 9.3K)
 
 REFERENCES
 ---
