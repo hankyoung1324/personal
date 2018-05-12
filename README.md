@@ -61,7 +61,7 @@ Shi Y., **Yang H.**, Ni L., He M., Zhang L. (Oct. 14- Oct. 15, 2016). The behavi
 
 Experience
 --
-#### ** Lecturer** (2017.12)
+#### **Lecturer** (2017.12)
 
 >*    Data recording in EEG experiments and data analysis of EEG and ERPs (20 students, 12 hours)
 
