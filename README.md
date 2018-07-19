@@ -10,7 +10,7 @@ SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
 #### EEG data analysis[1] in EEGLAB, Matlab and BrainVision Analyzer
 #### Matlab and Python programming
-#### Stats and data visualization in R, Python and SPSS
+#### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
 #### Extensive research experience in studies of children and adults using EEG (Brain Products) and eye-tracking (Eyelink 1000) techniques
 #### fMRI data analysis in BrainVoyager
 
@@ -48,7 +48,7 @@ PUBLICATIONS
 --
 ### Published paper
 [**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
-### Submitted paper
+### Accepted paper
 Zhao J., **Yang H.**, Weng X., Wang Z. Emergent attentional bias towards  words in the environment: Evidence from eye movements. *Frontiers in Psychology*.
 ### Conference presentations
 **Yang, H.**, Zhao J., Tan Y., Gaspar, C., Weng X., (Dec.8-10, 2016). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. The 16th International Conference on the Processing of East Asian Languages (ICPEAL), Guangzhou, China. 
@@ -61,11 +61,20 @@ Shi Y., **Yang H.**, Ni L., He M., Zhang L. (Oct. 14- Oct. 15, 2016). The behavi
 
 Experience
 --
-#### **Lecturer** (2017.12)
+
+#### **Collection Scorecard Analyst** (2018.5-Today, Home Credit Consumer Finance Co., Ltd.)
+
+>*    Predictive modelling in Consumer Finance
+
+#### **Lecturer** (2018.6, Zhejiang Normal University)
+
+>*    EEG & ERP Training Camp: Introduction, implementation of EEG experiment and data analysis based on MATLAB and EEGLAB (10 students, 18 hours)
+
+#### **Lecturer** (2017.12, South China Normal University)
 
 >*    Data recording in EEG experiments and data analysis of EEG and ERPs (20 students, 12 hours)
 
-#### **Lecturer** (2017.9)
+#### **Lecturer** (2017.9, Chongqing Siying Science and Technology Ltd.)
  
 >*    EEG introduction and preprocessing procedures based on EEGLAB (50 students, 3 hours)
  
@@ -120,3 +129,4 @@ REFERENCES
 >    Relationship: Researcher and supervisor for 3 years
 
 For PDF version of my CV, plesea click [HERE](https://github.com/hankyoung1324/personal/blob/master/HangYang_CV_github.pdf)
+ 
