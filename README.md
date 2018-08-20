@@ -48,8 +48,7 @@ PUBLICATIONS
 --
 ### Published paper
 [**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
-### Accepted paper
-Zhao J., **Yang H.**, Weng X., Wang Z. Emergent attentional bias towards  words in the environment: Evidence from eye movements. *Frontiers in Psychology*.
+[Zhao J., **Yang H.**, Weng X., Wang Z. Emergent attentional bias towards  words in the environment: Evidence from eye movements. *Frontiers in Psychology*](https://doi.org/10.3389/fpsyg.2018.01378).
 ### Conference presentations
 **Yang, H.**, Zhao J., Tan Y., Gaspar, C., Weng X., (Dec.8-10, 2016). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. The 16th International Conference on the Processing of East Asian Languages (ICPEAL), Guangzhou, China. 
  
