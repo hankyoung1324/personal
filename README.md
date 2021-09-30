@@ -28,12 +28,15 @@ EDUCATION
 >* PhD of Computational Cognitive Neuroscience, 10/2018 - 09/2022
 >
 >    Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Universtiy of Groningen, the Netherlands
+>    
 >* Master of Education (Clinical Cognitive Neuroscience), 09/2015 - 06/2018
 > 
 >    Center of Cognition of Brain Disorders, Hangzhou Normal University, China
+>    
 >* Bachelor of Engineering (Civil Engineering),09/2009 - 06/2013
 >  
 >    School of Mechanics and Civil Engineering, China University of Mining and Technology of Beijing, China
+>    
 
 COURSES
 ---
@@ -95,8 +98,9 @@ Experience
  
 >*    MATLAB overview and EEG signal processing with MATLAB scripts (50 students, 3 hours)
 
-#### Research assistant (2014.4 - 2015.9)
->*     Center of Cognition of Brain Disorders, Hangzhou Normal University
+#### **Research assistant** (2014.4 - 2015.9)
+
+>*    Center of Cognition of Brain Disorders, Hangzhou Normal University
 
 AWARDS & HONORS
 ---
