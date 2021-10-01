@@ -79,7 +79,9 @@ Experience
 #### **Teaching Asistant** (2021.4-2021.6, Master course given by Marieke van Vugt)
 
 >*    Computational Cognitive Neuroscience
-
+#### **Supervision** (2019-2021)
+ 
+>*    1 Master student, 3 bachelor student in Artifacial Intelligence
 #### **Collection Scorecard Analyst** (2018.5-2018.10, Home Credit Consumer Finance Co., Ltd.)
 
 >*    Predictive modelling in Consumer Finance
