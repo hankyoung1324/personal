@@ -55,11 +55,11 @@ PUBLICATIONS
 **Yang, H.**, Grabowecky M., Paller K., van Vugt, M. (2021) Can the Steady-state visual evoked potentials (SSVEPs) track spontaneous thought? 
 
 ### Published paper
-[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017").
+[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
 
 [Zhao J, **Yang H**, Weng X and Wang Z (2018) Emergent Attentional Bias Toward Visual Word Forms in the Environment: Evidence From Eye Movements. *Front. Psychol*. 9:1378](https://doi.org/10.3389/fpsyg.2018.01378 "publication in 2018").
 
-[Xue, H., Wang, Z., Tan, Y., **Yang, H.**, Fu, W., Xue, L., & Zhao, J. (2020). Resting-state EEG reveals global network deficiency in dyslexic children. Neuropsychologia, 138, 107343.](https://www.sciencedirect.com/science/article/pii/S0028393220300130?casa_token=06dCKImR65gAAAAA:FBAWE98AS9bkme62CvyLjW-6H9RsnviKpl7p-kxwRB_VfERNXXz2Vmf9pI1hK8UYDq1NCCIIZDQ).
+[Xue, H., Wang, Z., Tan, Y., **Yang, H.**, Fu, W., Xue, L., & Zhao, J. (2020). Resting-state EEG reveals global network deficiency in dyslexic children. Neuropsychologia, 138, 107343.](https://www.sciencedirect.com/science/article/pii/S0028393220300130?casa_token=06dCKImR65gAAAAA:FBAWE98AS9bkme62CvyLjW-6H9RsnviKpl7p-kxwRB_VfERNXXz2Vmf9pI1hK8UYDq1NCCIIZDQ)
 
 ### Conference presentations
 **Yang, H.**, van Vugt, M; Grabowecky M., Paller K. Can the steady-state visual evoked potentials (SSVEP) predict mind wandering (March 13-16, 2021) Cognitive Neuroscience Society Annual Conference 2021, the United States (Virtual)
