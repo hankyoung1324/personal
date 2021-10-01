@@ -155,5 +155,5 @@ REFERENCES
 >
 >    Relationship: Researcher and supervisor for 3 years (Master study)
 
-For PDF version of my CV, plesea click [HERE](https://github.com/hankyoung1324/personal/blob/master/HangYang_CV_github.pdf)
+For PDF version of my CV, plesea click [HERE](https://github.com/hankyoung1324/personal/blob/master/CV_HangYang.pdf)
  
