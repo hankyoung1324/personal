@@ -83,7 +83,7 @@ PUBLICATIONS
 
 4, **Yang, H.**,Besten, M, van Tol, M.J.,van Vugt, M. Alpha band oscillation modulates the role of sticky thinking on decision making impairment among Major Depression Disorder (MDD) patients (in preparation).
 
-5，**Yang, H.**,Besten, M, van Tol, M.J., van Vugt, M. Differential mechanism of mindfulness and positive fantasizing on the intervention of Major Depression Disorder (MDD)(in preparation).
+5, **Yang, H.**,Besten, M, van Tol, M.J., van Vugt, M. Differential mechanism of mindfulness and positive fantasizing on the intervention of Major Depression Disorder (MDD)(in preparation).
 
 ### Other ongoing projects in collaboration
 1, **Yang, H.**, Ji, Y., Zhao, J. The role of predictive coding in logographic lexical decision: A simulation study
