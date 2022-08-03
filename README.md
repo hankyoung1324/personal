@@ -20,18 +20,23 @@ RESEARCH INTERESTS
 
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
->* #### Evidence accumulation model of decision making
->* #### Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
->* #### Programming with Matlab and Python
->* #### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
->* #### Extensive research experience in studies of children and adults (both healthy population and patients) using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
->* #### fMRI data analysis in BrainVoyager
+>* `Evidence accumulation model of decision making`
+>
+>* `Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer`
+
+>* `Programming with Matlab and Python`
+
+>* `Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)`
+
+>* `Extensive research experience in studies of children and adults (both healthy population and patients) using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques`
+
+>* `fMRI data analysis in BrainVoyager`
 
 [1]: Including ERPs, single trial analysis and time-frequency analysis, coherence analysis
 
 EDUCATION
 ---
->* PhD of Computational Cognitive Neuroscience, 10/2018 - 09/2022
+>* PhD of Computational Cognitive Neuroscience, 10/2018 - 11/2022
 >
 >    Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Universtiy of Groningen, the Netherlands
 >    
