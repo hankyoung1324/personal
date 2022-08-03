@@ -90,15 +90,15 @@ PUBLICATIONS
 
 2, Gimple, S., **Yang, H.**, van Vugt, M. Stuck in thought. A machine learning approach for predicting stickiness of rumination in depression
 
-3, The altered resting state connectivity in pre-clinical and clinical depression
+3, **Yang, H.**,Besten, M, van Tol, M.J., van Vugt, M. The altered resting state connectivity in pre-clinical and clinical depression
 
 ### Conference presentations
 
 [**Yang, H.**, & Van Vugt, M. (2022, July). Separating the roles of orthographic and semantic information in the neural correlates of evidence accumulation for lexical decision-making. Paper presented at Virtual MathPsych/ICCM 2022.](mathpsych.org/presentation/875)
 
-**Yang, H.**, van Vugt, M; Grabowecky M., Paller K. Can the steady-state visual evoked potentials (SSVEP) predict mind wandering (March 13-16, 2021) Cognitive Neuroscience Society Annual Conference 2021, the United States (Virtual)
+**Yang, H.**, van Vugt, M; Grabowecky M., Paller K. (March 13-16, 2021). Can the steady-state visual evoked potentials (SSVEP) predict mind wandering. Cognitive Neuroscience Society Annual Conference 2021, the United States (Virtual)
 
-**Yang, H.**, van Vugt, M; Taatgen N., Grabowecky M., Paller K. Keeping track of mind wandering with Steady-state visual evoked potentials (SSVEP) (Dec.19-21, 2019) 17th NVP Winter Conference on Brain and Cognition, Egmond aan Zee, the Netherlands
+**Yang, H.**, van Vugt, M; Taatgen N., Grabowecky M., Paller K. (Dec.19-21, 2019). Keeping track of mind wandering with Steady-state visual evoked potentials (SSVEP). 17th NVP Winter Conference on Brain and Cognition, Egmond aan Zee, the Netherlands
 
 **Yang, H.**, Zhao J., Tan Y., Gaspar, C., Weng X., (Dec.8-10, 2016). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. The 16th International Conference on the Processing of East Asian Languages (ICPEAL), Guangzhou, China. 
  
