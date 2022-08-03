@@ -10,18 +10,18 @@ RESEARCH INTERESTS
 ---
 >*  `Neural basis of mind wandering and rumination`
 >*  `Intervention of Major Depression Disorder (MDD) with mindfulness meditation`
-#### `Single trial analysis and computational models of EEG`
-#### `Cognitive and neural correlates of brain disorders including MDD and developmental dyslexia(DD)`
+>* #### `Single trial analysis and computational models of EEG`
+>* #### `Cognitive and neural correlates of brain disorders including MDD and developmental dyslexia(DD)`
 #### `Predictive processing of visual word recognition`
 
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
-#### Evidence accumulation model of decision making
-#### Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
-#### Programming with Matlab and Python
-#### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
-#### Extensive research experience in studies of children and adults (both healthy population and patients) using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
-#### fMRI data analysis in BrainVoyager
+>* #### Evidence accumulation model of decision making
+>* #### Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
+>* #### Programming with Matlab and Python
+>* #### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
+>* #### Extensive research experience in studies of children and adults (both healthy population and patients) using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
+>* #### fMRI data analysis in BrainVoyager
 
 [1]: Including ERPs, single trial analysis and time-frequency analysis, coherence analysis
 
