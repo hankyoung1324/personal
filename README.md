@@ -8,8 +8,8 @@ Hang Yang
 
 RESEARCH INTERESTS
 ---
-#### `Neural basis of mind wandering and rumination`
-#### `Intervention of Major Depression Disorder (MDD) with mindfulness meditation`
+>*  `Neural basis of mind wandering and rumination`
+>*  `Intervention of Major Depression Disorder (MDD) with mindfulness meditation`
 #### `Single trial analysis and computational models of EEG`
 #### `Cognitive and neural correlates of brain disorders including MDD and developmental dyslexia(DD)`
 #### `Predictive processing of visual word recognition`
