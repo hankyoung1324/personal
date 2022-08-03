@@ -9,17 +9,18 @@ Hang Yang
 RESEARCH INTERESTS
 ---
 #### Neural basis of mind wandering and rumination
-#### Intervention of depression with mindfulness meditation
+#### Intervention of Major Depression Disorder (MDD) with mindfulness meditation
 #### Single trial analysis and computational models of EEG
-#### Cognitive and neural correlates of brain disorders including depression and developmental dyslexia
+#### Cognitive and neural correlates of brain disorders including MDD and developmental dyslexia(DD)
 #### Predictive processing of visual word recognition
 
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
+#### Evidence accumulation model of decision making
 #### Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
 #### Programming with Matlab and Python
 #### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
-#### Extensive research experience in studies of children and adults as well as depressive patients using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
+#### Extensive research experience in studies of children and adults (both healthy population and patients) using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
 #### fMRI data analysis in BrainVoyager
 
 [1]: Including ERPs, single trial analysis and time-frequency analysis, coherence analysis
@@ -71,11 +72,13 @@ PUBLICATIONS
 
 3, **Yang, H.**,van Vugt, M. Sticky form of spontaneous thought affect the evidence accumulation in pre-clinical depression (in preparation).
 
-4，**Yang, H.**,Besten, M, van Tol, M.J.,van Vugt, M. Alpha band oscillation modulates the role of sticky thinking on decision making impairment among Major Depression Disorder (MDD) patients (in preparation).
+4, **Yang, H.**,Besten, M, van Tol, M.J.,van Vugt, M. Alpha band oscillation modulates the role of sticky thinking on decision making impairment among Major Depression Disorder (MDD) patients (in preparation).
 
 5，**Yang, H.**,Besten, M, van Tol, M.J., van Vugt, M. Differential mechanism of mindfulness and positive fantasizing on the intervention of Major Depression Disorder (MDD)(in preparation).
 
-
+### Other ongoing projects in collaboration
+1, **Yang, H.**, Ji, Y., Zhao, J. The role of predictive coding in logographic lexical decision: A simulation study
+2, Gimple, S., **Yang, H.**, van Vugt, M. Stuck in thought. A machine learning approach for predicting stickiness of rumination in depression
 
 ### Conference presentations
 
