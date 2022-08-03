@@ -118,7 +118,7 @@ Experience
 >*    Computational Cognitive Neuroscience
 #### **Supervision** (2019-2021)
  
->*    2 Master student, 3 bachelor student in Artifacial Intelligence
+>*    2 Master students, 3 bachelor students in Artifacial Intelligence
 #### **Collection Scorecard Analyst** (2018.5-2018.10, Home Credit Consumer Finance Co., Ltd.)
 
 >*    Predictive modelling in Consumer Finance
