@@ -8,7 +8,7 @@ Hang Yang
 
 RESEARCH INTERESTS
 ---
-#### Neural basis of mind wandering and rumination
+#### `(Neural basis of mind wandering and rumination)`
 #### Intervention of Major Depression Disorder (MDD) with mindfulness meditation
 #### Single trial analysis and computational models of EEG
 #### Cognitive and neural correlates of brain disorders including MDD and developmental dyslexia(DD)
@@ -78,7 +78,10 @@ PUBLICATIONS
 
 ### Other ongoing projects in collaboration
 1, **Yang, H.**, Ji, Y., Zhao, J. The role of predictive coding in logographic lexical decision: A simulation study
+
 2, Gimple, S., **Yang, H.**, van Vugt, M. Stuck in thought. A machine learning approach for predicting stickiness of rumination in depression
+
+3, The altered resting state connectivity in pre-clinical and clinical depression
 
 ### Conference presentations
 
