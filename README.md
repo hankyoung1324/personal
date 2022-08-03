@@ -6,25 +6,26 @@ Hang Yang
 > 
 > Email:  hankyoung1324@hotmail.com, hang.yang@rug.nl
 
+RESEARCH INTERESTS
+---
+#### Neural basis of mind wandering and rumination
+#### Intervention of depression with mindfulness meditation
+#### Single trial analysis and computational models of EEG
+#### Cognitive and neural correlates of brain disorders including depression and developmental dyslexia
+#### Predictive processing of visual word recognition
+
 SUMMARY OF ACADEMIC SKILLS AND EXPERIENCE
 --
-#### EEG data analysis[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
-#### Matlab and Python programming
+#### Signal processing of EEG[1] in EEGLAB, Fieldtrip, Matlab and BrainVision Analyzer
+#### Programming with Matlab and Python
 #### Stats and data visualization in R, Python and SPSS, Oracle(PL/SQL)
-#### Extensive research experience in studies of children and adults as well as depressive patients using EEG (Brain Products) and eye-tracking (Eyelink 1000) techniques
+#### Extensive research experience in studies of children and adults as well as depressive patients using EEG (Brain Products,biosemi) and eye-tracking (Eyelink 1000) techniques
 #### fMRI data analysis in BrainVoyager
 
 [1]: Including ERPs, single trial analysis and time-frequency analysis, coherence analysis
 
-RESEARCH INTERESTS
----
-#### Neural basis of mind wandering and rumination
-#### Single trial analysis and computational models of EEG 
-#### Cognitive and neural correlates of brain disorders including depression and developmental dyslexia
-#### Visual word recognition
-
 EDUCATION
--
+---
 >* PhD of Computational Cognitive Neuroscience, 10/2018 - 09/2022
 >
 >    Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, Universtiy of Groningen, the Netherlands
@@ -50,7 +51,7 @@ COURSES
 >*	Data science specialization of John Hopkins University (Nine courses)
 
 PUBLICATIONS
---
+---
 
 ### Published paper
 
@@ -62,7 +63,24 @@ PUBLICATIONS
 
 [Xue, H., Wang, Z., Tan, Y., **Yang, H.**, Fu, W., Xue, L., & Zhao, J. (2020). Resting-state EEG reveals global network deficiency in dyslexic children. Neuropsychologia, 138, 107343.](https://www.sciencedirect.com/science/article/pii/S0028393220300130?casa_token=06dCKImR65gAAAAA:FBAWE98AS9bkme62CvyLjW-6H9RsnviKpl7p-kxwRB_VfERNXXz2Vmf9pI1hK8UYDq1NCCIIZDQ)
 
+### Papers under preparation
+
+1, **Yang, H.**, Jing Zhao, van Vugt, M. (2022) Separating the roles of orthographic and semantic information in the neural correlates of evidence accumulation for lexical decision-making (submitted to PLoS Computational Biology)
+
+2, Kaushik,P., **Yang, H.**, van Vugt, M., Roy, P. Classification of worries and depression among health participants with EEG. _Scientific Reports_(submitted)
+
+3, **Yang, H.**,van Vugt, M. Sticky form of spontaneous thought affect the evidence accumulation in pre-clinical depression (in preparation).
+
+4，**Yang, H.**,Besten, M, van Tol, M.J.,van Vugt, M. Alpha band oscillation modulates the role of sticky thinking on decision making impairment among Major Depression Disorder (MDD) patients (in preparation).
+
+5，**Yang, H.**,Besten, M, van Tol, M.J., van Vugt, M. Differential mechanism of mindfulness and positive fantasizing on the intervention of Major Depression Disorder (MDD)(in preparation).
+
+
+
 ### Conference presentations
+
+[**Yang, H.**, & Van Vugt, M. (2022, July). Separating the roles of orthographic and semantic information in the neural correlates of evidence accumulation for lexical decision-making. Paper presented at Virtual MathPsych/ICCM 2022.](mathpsych.org/presentation/875)
+
 **Yang, H.**, van Vugt, M; Grabowecky M., Paller K. Can the steady-state visual evoked potentials (SSVEP) predict mind wandering (March 13-16, 2021) Cognitive Neuroscience Society Annual Conference 2021, the United States (Virtual)
 
 **Yang, H.**, van Vugt, M; Taatgen N., Grabowecky M., Paller K. Keeping track of mind wandering with Steady-state visual evoked potentials (SSVEP) (Dec.19-21, 2019) 17th NVP Winter Conference on Brain and Cognition, Egmond aan Zee, the Netherlands
@@ -76,13 +94,13 @@ Zhao J., Li S., **Yang H.**, Tan Y., Cheng Q., Weng X. (Dec.8-10, 2016). Fine ne
 Shi Y., **Yang H.**, Ni L., He M., Zhang L. (Oct. 14- Oct. 15, 2016). The behavioral performance and electroencephalogram characteristics of self-control learning in inhibitory control, The 19th national conference on psychology, Xian, China
 
 Experience
---
+---
 #### **Teaching Asistant** (2021.4-2021.6, Master course given by Marieke van Vugt)
 
 >*    Computational Cognitive Neuroscience
 #### **Supervision** (2019-2021)
  
->*    1 Master student, 3 bachelor student in Artifacial Intelligence
+>*    2 Master student, 3 bachelor student in Artifacial Intelligence
 #### **Collection Scorecard Analyst** (2018.5-2018.10, Home Credit Consumer Finance Co., Ltd.)
 
 >*    Predictive modelling in Consumer Finance
@@ -107,6 +125,7 @@ Experience
 
 AWARDS & HONORS
 ---
+>* 2018-2022    China Scholarship Council for PhD study (EUR 1350/month)
 >*	2017    National Scholarship for Graduate Students (CNY 20K) 
 >*	2017    Hangzhou Normal University Graduate Student Scholarship (CNY 12K)
 >*	2016    Hangzhou Normal University Graduate Student Scholarship (CNY 8K)
