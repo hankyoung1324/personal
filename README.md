@@ -67,7 +67,7 @@ PUBLICATIONS
 
 [**Yang, H.**,Paller K., van Vugt, M. (2022) The Steady State Visual Evoked Potential (SSVEP) tracks "sticky" thinking, but not more general mind-wandering. _Frontiers in Human Neuroscience_(accepted)](https://www.frontiersin.org/articles/10.3389/fnhum.2022.892863/abstract)
 
-[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from  analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
+[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from single trial analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
 
 [Zhao J, **Yang H**, Weng X and Wang Z (2018) Emergent Attentional Bias Toward Visual Word Forms in the Environment: Evidence From Eye Movements. *Front. Psychol*. 9:1378](https://doi.org/10.3389/fpsyg.2018.01378 "publication in 2018").
 
