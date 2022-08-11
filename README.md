@@ -26,15 +26,15 @@ PUBLICATIONS
 
 ### Published papers
 
-[**Yang, H.**,Paller K., van Vugt, M. (2022) The Steady State Visual Evoked Potential (SSVEP) tracks "sticky" thinking, but not more general mind-wandering. _Frontiers in Human Neuroscience.](https://www.frontiersin.org/articles/10.3389/fnhum.2022.892863/full)
+[**Yang, H.**,Paller K., van Vugt, M. (2022) The Steady State Visual Evoked Potential (SSVEP) tracks "sticky" thinking, but not more general mind-wandering. _Frontiers in Human Neuroscience_, 0, 506.](https://www.frontiersin.org/articles/10.3389/fnhum.2022.892863/full)
 
-[Huang, Z., Yang, S., Xue, L., **Yang, H.**, Lv, Y., & Zhao, J. (2021). Level of Orthographic Knowledge Helps to Reveal Automatic Predictions in Visual Word Processing. Frontiers in Neuroscience, 15.](https://www.frontiersin.org/articles/10.3389/fnins.2021.809574/full)
+[Huang, Z., Yang, S., Xue, L., **Yang, H.**, Lv, Y., & Zhao, J. (2021). Level of Orthographic Knowledge Helps to Reveal Automatic Predictions in Visual Word Processing. _Frontiers in Neuroscience_, 15.](https://www.frontiersin.org/articles/10.3389/fnins.2021.809574/full)
 
-[Xue, H., Wang, Z., Tan, Y., **Yang, H.**, Fu, W., Xue, L., & Zhao, J. (2020). Resting-state EEG reveals global network deficiency in dyslexic children. Neuropsychologia, 138, 107343.](https://www.sciencedirect.com/science/article/pii/S0028393220300130?casa_token=06dCKImR65gAAAAA:FBAWE98AS9bkme62CvyLjW-6H9RsnviKpl7p-kxwRB_VfERNXXz2Vmf9pI1hK8UYDq1NCCIIZDQ)
+[Xue, H., Wang, Z., Tan, Y., **Yang, H.**, Fu, W., Xue, L., & Zhao, J. (2020). Resting-state EEG reveals global network deficiency in dyslexic children. _Neuropsychologia_, 138, 107343.](https://www.sciencedirect.com/science/article/pii/S0028393220300130?casa_token=06dCKImR65gAAAAA:FBAWE98AS9bkme62CvyLjW-6H9RsnviKpl7p-kxwRB_VfERNXXz2Vmf9pI1hK8UYDq1NCCIIZDQ)
 
-[Zhao J, **Yang H**, Weng X and Wang Z (2018) Emergent Attentional Bias Toward Visual Word Forms in the Environment: Evidence From Eye Movements. *Front. Psychol*. 9:1378](https://doi.org/10.3389/fpsyg.2018.01378 "publication in 2018").
+[Zhao J, **Yang H**, Weng X and Wang Z (2018) Emergent Attentional Bias Toward Visual Word Forms in the Environment: Evidence From Eye Movements. _Front. Psychol_. 9:1378](https://doi.org/10.3389/fpsyg.2018.01378 "publication in 2018").
 
-[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from single trial analysis. *Psychophysiology*, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
+[**Yang, H.**, Zhao, J., Gaspar, C. M., Chen, W., Tan, Y., & Weng, X. (2017). Selectivity of  for  words in the right hemisphere: Evidence from single trial analysis. _Psychophysiology_, 54(8), 1128–1137.](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12867/full "My first publication in 2017")
 
 
 ### Papers under preparation
