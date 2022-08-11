@@ -39,7 +39,7 @@ PUBLICATIONS
 
 ### Papers under preparation
 
-1, **Yang, H.**, Jing Zhao, van Vugt, M. (2022) Separating the roles of orthographic and semantic information in the neural correlates of evidence accumulation for lexical decision-making (submitted to Cognitive Psychology)
+1, [**Yang, H.**, Jing Zhao, van Vugt, M. (2022) Separating the roles of orthographic and semantic information in the neural correlates of evidence accumulation for lexical decision-making (submitted to Cognitive Psychology)](https://psyarxiv.com/czt46)
 
 2, Kaushik,P., **Yang, H.**, van Vugt, M., Roy, P. Classification of worries and depression among health participants with EEG. _Scientific Reports_(in preparation)
 
